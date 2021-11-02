@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI specifically Computer Vision and Natural Language Processing
 - 🌱 I’m currently studying AI as a Master student in Italy.
 - 💞️ I’m looking to collaborate on AI projects.
-- 📫 You can reach me via vahid.farjood@gmail.com
+- 📫 You can reach me via vfarjoud@gmail.com
 
 <!---
 vfarjood/vfarjood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
