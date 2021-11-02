@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vahid Farjood
-- 👀 I’m interested in AI specifically Computer Vision
+- 👀 I’m interested in AI specifically Computer Vision and Natural Language Processing
 - 🌱 I’m currently studying AI as a Master student in Italy.
 - 💞️ I’m looking to collaborate on AI projects.
 - 📫 You can reach me via vahid.farjood@gmail.com
