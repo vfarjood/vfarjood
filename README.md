@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vahid Farjood!
 
-Welcome to my GitHub! I'm a passionate **C++ developer** and AI enthusiast, with a strong interest in **Computer Vision** and **Natural Language Processing (NLP)**. I enjoy building innovative solutions, optimizing algorithms, and diving deep into the world of AI.
+Welcome to my GitHub! I'm a passionate **C++ developer** and AI enthusiast, with the interest in **Computer Vision** and **Natural Language Processing (NLP)**. I enjoy building innovative solutions, optimizing algorithms, and diving deep into the world of AI.
 
 ---
 
