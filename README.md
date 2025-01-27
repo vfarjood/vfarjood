@@ -45,7 +45,7 @@ A header-only, ring-buffer-like C++ container with efficient push/pop and iterat
 An AI-powered Computer Vision tool using OpenCV and deep learning for traffic estimation.
 
 
-### 3. **[AI Traffic Estimator](https://github.com/vfarjood/Image-Captioning-with-Attention.git)**
+### 3. **[Image Captioninig](https://github.com/vfarjood/Image-Captioning-with-Attention.git)**
 An AI-powered Computer Vision tool for automatic image captioning using deep learning and attention models.
 
 ### 4. **[Neuro Load Reduction](https://github.com/vfarjood/Neuro-Load-Reduction.git)**
