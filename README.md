@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate **C++ developer** and AI enthusiast, with
 
 ## 🛠 My Skills:
 - **Programming Languages**: 
-  - C++ (expert)
+  - C++
   - Python (AI/ML frameworks)
   - Familiar with Go and JavaScript.
 - **AI/ML Technologies**:
