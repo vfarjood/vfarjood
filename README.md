@@ -44,6 +44,13 @@ A header-only, ring-buffer-like C++ container with efficient push/pop and iterat
 ### 2. **[AI Traffic Estimator](https://github.com/vfarjood/traffic_estimator.git)**
 An AI-powered Computer Vision tool using OpenCV and deep learning for traffic estimation.
 
+
+### 3. **[AI Traffic Estimator](https://github.com/vfarjood/Image-Captioning-with-Attention.git)**
+An AI-powered Computer Vision tool for automatic image captioning using deep learning and attention models.
+
+### 4. **[Neuro Load Reduction](https://github.com/vfarjood/Neuro-Load-Reduction.git)**
+An C++ application for Neuro load reduction on video stream for kids.
+
 ---
 
 Feel free to reach out, collaborate, or explore my repositories. Let's build something great together! 🚀
