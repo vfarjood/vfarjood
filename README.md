@@ -46,7 +46,7 @@ An AI-powered Computer Vision tool using OpenCV and deep learning for traffic es
 
 
 ### 3. **[Image Captioninig](https://github.com/vfarjood/Image-Captioning-with-Attention.git)**
-An AI-powered Computer Vision tool for automatic image captioning using deep learning and attention models.
+A Computer Vision tool for automatic image captioning using deep learning and attention models.
 
 ### 4. **[Neuro Load Reduction](https://github.com/vfarjood/Neuro-Load-Reduction.git)**
 An C++ application for Neuro load reduction on video stream for kids.
