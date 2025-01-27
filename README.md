@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate **C++ developer** and AI enthusiast, with
 
 ## 📫 Let's Connect:
 - 💌 Email: [vfarjoud@gmail.com](mailto:vfarjoud@gmail.com)
-- 🌐 LinkedIn: (https://www.linkedin.com/in/vahid-farjood-chafi-ab1797106)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/vahid-farjood-chafi-ab1797106]
 
 ---
 
