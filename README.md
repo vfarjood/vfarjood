@@ -39,17 +39,17 @@ Welcome to my GitHub! I'm a passionate **C++ developer** and AI enthusiast, with
 ## 🌟 Featured Projects:
 
 ### 1. **[CircularContainer](https://github.com/vfarjood/circular_container.git)** 
-A header-only, ring-buffer-like C++ container with efficient push/pop and iterator support.
+ - A header-only, ring-buffer-like C++ container with efficient push/pop and iterator support.
 
 ### 2. **[AI Traffic Estimator](https://github.com/vfarjood/traffic_estimator.git)**
-An AI-powered Computer Vision tool using OpenCV and deep learning for traffic estimation.
+ - An AI-powered Computer Vision tool using OpenCV and deep learning for traffic estimation.
 
 
 ### 3. **[Image Captioninig](https://github.com/vfarjood/Image-Captioning-with-Attention.git)**
-A Computer Vision tool for automatic image captioning using deep learning and attention models.
+ - A Computer Vision tool for automatic image captioning using deep learning and attention models.
 
 ### 4. **[Neuro Load Reduction](https://github.com/vfarjood/Neuro-Load-Reduction.git)**
-An C++ application for Neuro load reduction on video stream for kids.
+ - An C++ application for Neuro load reduction on video stream for kids.
 
 ---
 
