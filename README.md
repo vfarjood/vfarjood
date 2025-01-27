@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate **C++ developer** and AI enthusiast, with
 
 ## 📈 GitHub Stats:
 
-![Vahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=radical)
+![Vahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vfarjood&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=radical)
 
 ---
 
